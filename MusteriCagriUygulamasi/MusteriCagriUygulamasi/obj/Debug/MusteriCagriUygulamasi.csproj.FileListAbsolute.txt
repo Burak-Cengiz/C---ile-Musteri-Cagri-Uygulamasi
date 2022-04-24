@@ -1,0 +1,11 @@
+C:\Users\kazbu\source\repos\MusteriCagriUygulamasi\MusteriCagriUygulamasi\bin\Debug\MusteriCagriUygulamasi.exe.config
+C:\Users\kazbu\source\repos\MusteriCagriUygulamasi\MusteriCagriUygulamasi\bin\Debug\MusteriCagriUygulamasi.exe
+C:\Users\kazbu\source\repos\MusteriCagriUygulamasi\MusteriCagriUygulamasi\bin\Debug\MusteriCagriUygulamasi.pdb
+C:\Users\kazbu\source\repos\MusteriCagriUygulamasi\MusteriCagriUygulamasi\obj\Debug\MusteriCagriUygulamasi.csproj.AssemblyReference.cache
+C:\Users\kazbu\source\repos\MusteriCagriUygulamasi\MusteriCagriUygulamasi\obj\Debug\MusteriCagriUygulamasi.csproj.SuggestedBindingRedirects.cache
+C:\Users\kazbu\source\repos\MusteriCagriUygulamasi\MusteriCagriUygulamasi\obj\Debug\MusteriCagriUygulamasi.Form1.resources
+C:\Users\kazbu\source\repos\MusteriCagriUygulamasi\MusteriCagriUygulamasi\obj\Debug\MusteriCagriUygulamasi.Properties.Resources.resources
+C:\Users\kazbu\source\repos\MusteriCagriUygulamasi\MusteriCagriUygulamasi\obj\Debug\MusteriCagriUygulamasi.csproj.GenerateResource.cache
+C:\Users\kazbu\source\repos\MusteriCagriUygulamasi\MusteriCagriUygulamasi\obj\Debug\MusteriCagriUygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\kazbu\source\repos\MusteriCagriUygulamasi\MusteriCagriUygulamasi\obj\Debug\MusteriCagriUygulamasi.exe
+C:\Users\kazbu\source\repos\MusteriCagriUygulamasi\MusteriCagriUygulamasi\obj\Debug\MusteriCagriUygulamasi.pdb
